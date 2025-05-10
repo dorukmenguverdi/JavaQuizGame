@@ -19,7 +19,7 @@ A simple quiz game built with Java Swing. This application presents multiple cho
 ### Running the Application
 
 1. Clone the repository:
-git clone https://github.com/dorukmenguverdi/java-quiz-game.git
+git clone https://github.com/dorukmenguverdi/javaQuizGame.git
 
 2.Open the project in your preferred IDE or compile and run via terminal:
 cd java-quiz-game
